@@ -1,0 +1,23 @@
+{
+    "welcome_message": "Willkommen im Shop!",
+    "cart_empty": "Ihr Warenkorb ist leer.",
+    "categories": "Kategorien",
+    "info_text": "📂 <b>Kategorien</b> – wähle eine Kategorie:",
+    "admin_menu": "🔐 Admin‑Menü:",
+    "product_added": "Zum Warenkorb hinzugefügt ✅",
+    "checkout_message": "💸 <b>Bestellung erstellt</b>\n\nBetrag: <b>{total}</b>\nZahlungsmethode: XMR (Mock)\nAdresse: <code>{address}</code>\nPayment-ID: <code>{payment_id}</code>\n\nDer Zahlungseingang wird (noch) nicht automatisch geprüft.",
+    "cart_summary": "🛒 <b>Dein Warenkorb</b>\n\n{lines}\n\n<b>Summe: {total}</b>",
+    "no_products_in_category": "Keine Produkte in dieser Kategorie.",
+    "info_placeholder": "<i>Keine Info hinterlegt.</i>",
+    "fallback_welcome_message": "Willkommen im Shop!",
+    "no_categories_available": "Zurzeit sind keine Kategorien verfügbar.",
+    "product_not_found": "Produkt nicht gefunden.",
+    "empty_cart": "🛒 Dein Warenkorb ist leer.",
+    "invalid_photo_input": "⚠️ Bitte ein Foto schicken.",
+    "cancelled_action": "❌ Vorgang abgebrochen.",
+    "back_button_text": "🔙 Zurück",
+    "checkout_button_text": "✅ Zur Kasse",
+    "admin_manage_categories": "📂 Kategorien verwalten",
+    "admin_manage_products": "📦 Produkte verwalten",
+    "admin_welcome_message": "👋 Willkommen"
+}
