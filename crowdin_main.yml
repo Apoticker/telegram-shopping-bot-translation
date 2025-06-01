@@ -9,3 +9,6 @@
   "source" : "/translation/de/**/*.json",    # DE ist jetzt Source
   "translation" : "/translation/%locale%/**/%original_file_name%"
 }]
+
+- name: crowdin-action
+  uses: crowdin/github-action@v2.7.0
