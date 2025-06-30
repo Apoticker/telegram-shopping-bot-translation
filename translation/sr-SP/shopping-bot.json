@@ -431,5 +431,14 @@
   "log.interactive.skip.key": "Key {key} übersprungen",
   "log.interactive.remove.key": "Key {key} wird entfernt",
   "log.write.translation": "Übersetzungsdatei geschrieben",
-  "log.translations.load.error": "Kann Translationsdatei nicht lesen"
+  "log.translations.load.error": "Kann Translationsdatei nicht lesen",
+  "start.welcome.user.message": "Willkommen <b>{name}</b>! Schön, dass du da bist.",
+  "admin.handler.log.info.menu.aufgerufen": "[Admin] Info-Menü aufgerufen",
+  "admin.handler.info.menu.verwalten": "🔧 <b>Info-Seiten verwalten</b>",
+  "admin.handler.info.section.entwickler": "Entwickler",
+  "admin.handler.info.section.pgp": "PGP Keys",
+  "admin.handler.info.section.privacy": "Datenschutz & Sicherheit",
+  "admin.handler.info.section.vendor": "Vendorinformation",
+  "admin.handler.info.section.shipping": "Post-Versand",
+  "admin.handler.info.section.faq": "FAQ"
 }
